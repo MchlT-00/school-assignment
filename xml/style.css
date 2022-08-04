@@ -1,0 +1,36 @@
+Bio{
+    background-image: url(/bg.png);
+    background-repeat:round;
+    background-size: cover;
+    /* background-color: #3D550C; */
+    color: #EBEBE8;
+    text-align: center;
+    width: 100%;
+    
+}
+title {
+    font-size: 44px;
+    text-align: center;
+    padding: 20px;
+
+}
+title,name, age, school, course, year,content {
+    display: block;
+ 
+}
+name, age, school, course, year {
+    font-size:large;
+    font-style: oblique;
+}
+content{
+    font-size:large;
+}
+description{
+    font-size: x-large;
+}
+t1 {
+    display:block;
+    /* text-align-last:right; */
+    text-decoration:wavy;
+    font-size: large;
+}

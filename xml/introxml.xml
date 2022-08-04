@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<Bio>
+    <title>Hello Readers</title>
+    <my_self>
+        <name> I am Michael Jan T. Ramos</name>
+        <age>22 years old</age>
+    </my_self>
+    <my_self>
+        <school>I am a student in Bulacan State University</school>
+        <course>Taking a bachelor's degree in Science major in Mathematics with specialization in Computer Science.</course>
+        <year>and now I am at my last year in University.</year>
+    </my_self>
+    <newline>-------------------------------</newline>
+    <newline>-------------------------------</newline>
+    <newline>-------------------------------</newline>
+    <newline>-------------------------------</newline>
+    <content>
+        <description>First Year College</description>
+        <subject>Subjects</subject>
+    </content>
+    <newline>-------------------------------</newline>
+    <content>*FIRST SEM*</content>
+    <newline>-------------------------------</newline>
+    <t1>Purposive Communicaton</t1>
+    <t1>Calculus 1</t1>
+    <t1>Mathematics in the Modern World</t1>
+    <t1>Fundamentals of Computing</t1>
+    <t1>Computer Programming Computer 1</t1>
+    <t1>Computer Programming Computer 1 Lab </t1>
+    <t1>Art Appreciation</t1>
+    <t1>Panitikan at Panlipunan</t1>
+    <t1>Physical Education 1</t1>
+    <t1>National Service Training Program 1</t1>
+    <newline>-------------------------------</newline>
+    <content>*SECOND SEM*</content>
+    <newline>-------------------------------</newline>
+    <t1>Understanding the Self</t1>
+    <t1>Fundamental Concept of Mathematics</t1>
+    <t1>Statistical Theory</t1>
+    <t1>Computer Programming 2</t1>
+    <t1>Database Management System 1</t1>
+    <t1>Pagsasalin sa iba't ibang Disiplina</t1>
+    <t1>Physical Education 2</t1>
+    <t1>National Service Training Program 2</t1>
+    <t1>Calculus 2</t1>
+    <content>
+        <description>Second Year College</description>
+        <subject>Subjects</subject>
+    </content>
+    <newline>-------------------------------</newline>
+    <content>*FIRST SEM*</content>
+    <newline>-------------------------------</newline>
+    <t1>Calculus 3</t1>
+    <t1>Set Theory</t1>
+    <t1>Probability</t1>
+    <t1>Data Structures and Algorithm</t1>
+    <t1>Database Management System 2</t1>
+    <t1>Mechanics and Heat (lecture and lab)</t1>
+    <t1>Physical Education 3</t1>
+    <t1>Ethics</t1>
+    <newline>-------------------------------</newline>
+    <content>*SECOND SEM*</content>
+    <newline>-------------------------------</newline>
+    <t1>The Contemporary World</t1>
+    <t1>Linear Algebra</t1>
+    <t1>Differential Equation 1</t1>
+    <t1>Number Theory</t1>
+    <t1>Abstract Algebra 1</t1>
+    <t1>Electric, Lights and Sounds</t1>
+    <t1>Computer Programming 3</t1>
+    <t1>Multimedia</t1>
+    <t1>Physical Education 4</t1>
+    <content>
+        <description>Third Year College</description>
+        <subject>Subjects</subject>
+    </content>
+    <newline>-------------------------------</newline>
+    <content>*FIRST SEM*</content>
+    <newline>-------------------------------</newline>
+    <t1>Advance Calculus 1</t1>
+    <t1>Modern Geometry</t1>
+    <t1>Operation Research 1</t1>
+    <t1>Concept of Operating System</t1>
+    <t1>Multimedia 2</t1>
+    <t1>Technical Writing</t1>
+    <t1>Environmental Science</t1>
+    <t1>Science, Technology and Society</t1>
+    <newline>-------------------------------</newline>
+    <content>*SECOND SEM*</content>
+    <newline>-------------------------------</newline>
+    <t1>Free Elective</t1>
+    <t1>Gender and Society</t1>
+    <t1>Reading in the Philippine History</t1>
+    <t1>System Analysis and Design</t1>
+    <t1>Game Development</t1>
+    <t1>Graph Theory and Applications</t1>
+    <t1>Mathematical Modeling</t1>
+    <t1>Complex Analysis</t1>
+    <content>
+        <description>Last Year College</description>
+        <subject>Subjects</subject>
+    </content>
+    <newline>-------------------------------</newline>
+    <content>*FIRST SEM*</content>
+    <newline>-------------------------------</newline>
+    <t1>Thesis 1</t1>
+    <t1>The Entrepreneurial Mind</t1>
+    <t1>Computer Networking Design</t1>
+    <t1>Computer Networking Design lab</t1>
+    <t1>Life and Works of Rizal</t1>
+    <t1>Real Analysis</t1>
+    <newline>-------------------------------</newline>
+    <content>*SECOND SEM*</content>
+    <newline>-------------------------------</newline>
+    <t1>Numerical Analysis</t1>
+    <t1>Actuarial Mathematics</t1>
+    <t1>Thesis 2</t1>
+    <t1>Free Elective</t1>
+    <newline>-------------------------------</newline>
+    <newline>-------------------------------</newline>
+    <newline>-------------------------------</newline>
+    <newline>-------------------------------</newline>
+    <t1></t1>
+    <newline>-------------------------------</newline>
+    <newline>-------------------------------</newline>
+    <newline>-------------------------------</newline>
+    <t1></t1>
+    <newline>-------------------------------</newline>
+    <newline>-------------------------------</newline>
+    <t1></t1>
+    <newline>-------------------------------</newline>
+</Bio>

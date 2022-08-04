@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Programming>
+<title>Web Development</title>
+<language>
+<abbr>HTML</abbr>
+<stands_for>Hypertext Markup Language</stands_for>
+<used>HTML describe the structure of webpage.</used>
+</language>
+
+<language>
+<abbr>CSS</abbr>
+<stands_for>Cascading Style Sheets</stands_for>
+<used>CSS used to style webpage.</used>
+</language>
+
+<language>
+<abbr>JS</abbr>
+<stands_for>Javascript</stands_for>
+<used>JS is implement to make the website more interactive for its user.</used>
+</language>
+
+<language>
+<abbr>PHP</abbr>
+<stands_for>Hypertext Preprocessor</stands_for>
+<used>PHP used for a server-side programming, which interacting with database to retrieve information, storing, email sending, and provides content to HTML pages to display on the screen.</used>
+</language>
+
+<codeeditor>
+<abbr>VS Code</abbr>
+<stands_for>Visual Studio Code</stands_for>
+<used>VS code is a  open-source code editor that support a feature like debugging, task running and version control. And based on experience it is easy to used than other code editor.</used>
+</codeeditor>
+
+</Programming>
